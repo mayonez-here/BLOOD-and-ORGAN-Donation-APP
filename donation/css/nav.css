@@ -1,0 +1,56 @@
+.navbar-default {
+  background-color: #dc0303;
+  border-color: #dc0000;
+}
+.navbar-default .navbar-brand {
+  color: #fafeff;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #fefefe;
+}
+.navbar-default .navbar-text {
+  color: white;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #fafeff;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #fefefe;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #fefefe;
+  background-color: #dc0000;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #fefefe;
+  background-color: #dc0000;
+}
+.navbar-default .navbar-toggle {
+  border-color: #dc0000;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #dc0000;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fafeff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #fafeff;
+}
+.navbar-default .navbar-link {
+  color: #fafeff;
+}
+.navbar-default .navbar-link:hover {
+  color: #fefefe;
+}
+. nav navbar navbar-default{ 
+  background-color: #dc0808
+}
